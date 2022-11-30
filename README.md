@@ -1,21 +1,21 @@
 # tugas-perbaiakan
-1.E
-2.E
-3.D
-4.SEBUAH
-5.C
-6.D
-7.C
-8.C
-9.B
-10.C
-11.D
-12.B
-13.C
-14.SEBUAH
-15.E
-16.D
-17.B
-18.SEBUAH
-19.D
-20.E
+1.E <br>
+2.E <br>
+3.D <br>
+4.SEBUAH <br>
+5.C <br>
+6.D <br>  
+7.C <br>
+8.C <br>
+9.B <br>
+10.C <br>
+11.D <br>
+12.B <br>
+13.C <br>
+14.SEBUAH <br>
+15.E <br>
+16.D <br>
+17.B <br>
+18.SEBUAH <br>
+19.D <br>
+20.E <br>
